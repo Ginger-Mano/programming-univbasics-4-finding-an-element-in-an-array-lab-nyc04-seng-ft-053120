@@ -4,5 +4,5 @@ def find_element_index(array, value_to_find)
     array[index] == value_to_find
     index += 1
   end
-  puts array.index# Add your solution here
+  puts array[index]# Add your solution here
 end
